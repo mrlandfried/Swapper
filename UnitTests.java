@@ -4,8 +4,6 @@ import static org.junit.Assert.*;
 
 public class UnitTests {
 
-  RoachPopulation population = new RoachPopulation(15);
-
   @Test
   public void SwapperEven(){
 	int x[] = {4, -5, 10, 7,-3, 6, 2, 1, 9, -8};
